@@ -12,7 +12,7 @@
 <table width="248" border="0" align="center">
 	
 	<tr>
-		<td colspan="2" align="center">CASDATRAR NO SITE</td>
+		<td colspan="2" align="center">CASDATRAR NO SITE 2018</td>
 	</tr>
 	<tr>
 		<td align="right">Usuário:</td>
