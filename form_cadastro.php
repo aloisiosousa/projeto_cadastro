@@ -7,6 +7,7 @@
 <body>
 
 <h1>Professor Aloísio Sousa</h1>
+<h2>Codigo de ação<h2>
 	
 <form action="inserir.php" method="post" name="cadastro">
 	
